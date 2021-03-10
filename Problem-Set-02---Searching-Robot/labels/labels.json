@@ -1,0 +1,74 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "description": "Something isn't working",
+        "id": 546396,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWw1NDYzOTY=",
+        "url": "https://github.ncsu.edu/api/v3/repos/hzong2/Problem-Set-02---Searching-Robot/labels/bug"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "description": "This issue or pull request already exists",
+        "id": 546397,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWw1NDYzOTc=",
+        "url": "https://github.ncsu.edu/api/v3/repos/hzong2/Problem-Set-02---Searching-Robot/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "description": "New feature or request",
+        "id": 546398,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWw1NDYzOTg=",
+        "url": "https://github.ncsu.edu/api/v3/repos/hzong2/Problem-Set-02---Searching-Robot/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "description": "Good for newcomers",
+        "id": 546400,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWw1NDY0MDA=",
+        "url": "https://github.ncsu.edu/api/v3/repos/hzong2/Problem-Set-02---Searching-Robot/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "description": "Extra attention is needed",
+        "id": 546399,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWw1NDYzOTk=",
+        "url": "https://github.ncsu.edu/api/v3/repos/hzong2/Problem-Set-02---Searching-Robot/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "description": "This doesn't seem right",
+        "id": 546401,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWw1NDY0MDE=",
+        "url": "https://github.ncsu.edu/api/v3/repos/hzong2/Problem-Set-02---Searching-Robot/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "description": "Further information is requested",
+        "id": 546402,
+        "name": "question",
+        "node_id": "MDU6TGFiZWw1NDY0MDI=",
+        "url": "https://github.ncsu.edu/api/v3/repos/hzong2/Problem-Set-02---Searching-Robot/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "description": "This will not be worked on",
+        "id": 546403,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWw1NDY0MDM=",
+        "url": "https://github.ncsu.edu/api/v3/repos/hzong2/Problem-Set-02---Searching-Robot/labels/wontfix"
+    }
+]
