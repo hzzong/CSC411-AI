@@ -1,0 +1,74 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "description": "Something isn't working",
+        "id": 556626,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWw1NTY2MjY=",
+        "url": "https://github.ncsu.edu/api/v3/repos/hzong2/CSC411_ProblemSet03/labels/bug"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "description": "This issue or pull request already exists",
+        "id": 556627,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWw1NTY2Mjc=",
+        "url": "https://github.ncsu.edu/api/v3/repos/hzong2/CSC411_ProblemSet03/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "description": "New feature or request",
+        "id": 556628,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWw1NTY2Mjg=",
+        "url": "https://github.ncsu.edu/api/v3/repos/hzong2/CSC411_ProblemSet03/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "description": "Good for newcomers",
+        "id": 556630,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWw1NTY2MzA=",
+        "url": "https://github.ncsu.edu/api/v3/repos/hzong2/CSC411_ProblemSet03/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "description": "Extra attention is needed",
+        "id": 556629,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWw1NTY2Mjk=",
+        "url": "https://github.ncsu.edu/api/v3/repos/hzong2/CSC411_ProblemSet03/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "description": "This doesn't seem right",
+        "id": 556631,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWw1NTY2MzE=",
+        "url": "https://github.ncsu.edu/api/v3/repos/hzong2/CSC411_ProblemSet03/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "description": "Further information is requested",
+        "id": 556632,
+        "name": "question",
+        "node_id": "MDU6TGFiZWw1NTY2MzI=",
+        "url": "https://github.ncsu.edu/api/v3/repos/hzong2/CSC411_ProblemSet03/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "description": "This will not be worked on",
+        "id": 556633,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWw1NTY2MzM=",
+        "url": "https://github.ncsu.edu/api/v3/repos/hzong2/CSC411_ProblemSet03/labels/wontfix"
+    }
+]
